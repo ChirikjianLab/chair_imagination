@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<robot name="chair_0894.urdf">
+  <link name="baseLink">
+    <contact>
+      <lateral_friction value="1.0"/>
+      <inertia_scaling value="1.0"/>
+    </contact>
+    <inertial>
+      <origin rpy="0 0 0" xyz="-0.077959 0.597574 0.076298"/>
+       <mass value="13.144682"/>
+       <inertia ixx="1.148656" ixy="-0.091392" ixz="-0.027449" iyy="0.987012" iyz="-0.226920" izz="0.995497"/>
+     </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+				<mesh filename="chair_0894.obj" scale="1 1 1"/>
+      </geometry>
+       <material name="white">
+        <color rgba="1 1 1 1"/>
+      </material>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <mesh filename="chair_0894_vhacd.obj" scale="1 1 1"/>
+      </geometry>
+    </collision>
+  </link>
+</robot>
+

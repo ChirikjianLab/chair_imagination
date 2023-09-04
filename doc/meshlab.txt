@@ -1,0 +1,6 @@
+meshlabserver cmd = meshlabserver -l /tmp/tmptt_qj9j7.txt -i "./data/training_set/annotation_0226_Hongtao/chair_0011/transform_230831_100000/chair_0011_transform_vhacd.obj" -s "TEMP3D_measure_geometry_scale.mlx"
+***START OF MESHLAB STDOUT & STDERR***
+/bin/sh: 1: meshlabserver: not found
+***END OF MESHLAB STDOUT & STDERR***
+meshlabserver return code = 127
+

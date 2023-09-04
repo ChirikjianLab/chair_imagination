@@ -1,0 +1,19 @@
+Apply FilterScript: '/home/xin/src/chair_imagination/doc/TEMP3D_measure_geometry_scale.mlx'
+Starting Script of 2 actionsfilter: Per Vertex Geometric Function
+734 vertices processed in 0.00 sec.
+filter: Compute Geometric Measures
+734 vertices processed in 0.00 sec.
+Mesh Bounding Box Size 4.835380  5.469490  13.039660
+Mesh Bounding Box Diag 14.944195 
+Mesh Bounding Box min -2.420160  -2.726620  -6.519830
+Mesh Bounding Box max 2.415220  2.742870  6.519830
+Mesh Surface Area is 424.653961
+Mesh Total Len of 1804 Edges is 3152.603516 Avg Len 1.747563
+Mesh Total Len of 1804 Edges is 3152.603516 Avg Len 1.747563 (including faux edges))
+Thin shell (faces) barycenter:  -0.009072   0.231095  -1.817150
+Vertices barycenter  -0.006638   0.542346  -1.462433
+Mesh is not 'watertight', no information on volume, barycenter and inertia tensor.
+Principal axes are :
+    | -0.001171  -0.999926  -0.012079 |
+    | -0.999510   0.000792   0.031288 |
+    |  0.031276  -0.012110   0.999437 |

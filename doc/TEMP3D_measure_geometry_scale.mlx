@@ -1,0 +1,10 @@
+<!DOCTYPE FilterScript>
+<FilterScript>
+  <filter name="Per Vertex Geometric Function">
+    <Param name="x" value="x*(10)" description="func x = " type="RichString" />
+    <Param name="y" value="y*(10)" description="func y = " type="RichString" />
+    <Param name="z" value="z*(10)" description="func z = " type="RichString" />
+    <Param name="onselected" value="false" description="only on selection" type="RichBool" />
+  </filter>
+  <xmlfilter name="Compute Geometric Measures"/>
+</FilterScript>
