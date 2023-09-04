@@ -34,7 +34,7 @@ save_csv_file = [
                 ]
 
 obj_dir = [ 
-            "/home/xin/Dropbox/chair_imagination_release/data/test_set/chairs/synthetic",
+            "/home/xin/Dropbox/chair_imagination_release/data/",
             ]
 
 
